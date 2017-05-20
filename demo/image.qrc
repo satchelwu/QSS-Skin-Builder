@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/gametest.png</file>
+        <file>image/gametest_focus.png</file>
+        <file>image/infoextend.png</file>
+        <file>image/infoextend_focus.png</file>
+        <file>image/logo.png</file>
+        <file>image/positiontest.png</file>
+        <file>image/positiontest_focus.png</file>
+        <file>image/speedtest.png</file>
+        <file>image/speedtest_focus.png</file>
+        <file>image/titleclose.png</file>
+        <file>image/titlemax.png</file>
+        <file>image/titlemenu.png</file>
+        <file>image/titlemini.png</file>
+        <file>image/troublecheck.png</file>
+        <file>image/troublecheck_focus.png</file>
+        <file>image/websitetest.png</file>
+        <file>image/websitetest_focus.png</file>
+        <file>image/wifitest.png</file>
+        <file>image/wifitest_focus.png</file>
+        <file>image/bj.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>demo/main_about.png</file>
+        <file>demo/main_company.png</file>
+        <file>demo/main_config.png</file>
+        <file>demo/main_data.png</file>
+        <file>demo/main_exit.png</file>
+        <file>demo/main_help.png</file>
+        <file>demo/main_main.png</file>
+        <file>demo/main_person.png</file>
+    </qresource>
+</RCC>
